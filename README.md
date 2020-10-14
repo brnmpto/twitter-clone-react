@@ -21,7 +21,7 @@ UI Clone - Twitter Responsive
 
 - [x] React.js
 - [x] Styled Components
-- [x] TypeScript
+- [x] TypeScript.
 
 ## Ideas to implement
 
